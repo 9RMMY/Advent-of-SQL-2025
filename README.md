@@ -5,4 +5,4 @@
 
 ### Description
 MySQL을 사용합니다.
-</br>각 날짜의 솔루션은 src/solution/day##.sql에 있습니다.
+</br>각 날짜의 솔루션은 solution/day##.sql에 있습니다.
